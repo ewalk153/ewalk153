@@ -1,12 +1,10 @@
-### Hi there 👋
-
-<!--
-**ewalk153/ewalk153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋 I'm Eric
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on merchandising at Shopify (subscriptions, pre-orders, etc)
+- 🌱 I’m currently learning how to build a 6502 computer on a breadboard, and about Shopify new custom storefront tool [Hydrogen](https://shopify.dev/beta/hydrogen)
+- 💬 Ask me about the differences working in a startup vs a larger fast growing company like Shopify
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
