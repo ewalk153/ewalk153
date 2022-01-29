@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Eric
 Here are some ideas to get you started:
 
-- 🔭 I work on merchandising at Shopify (subscriptions, pre-orders, etc)
-- 🌱 I’m currently learning how to build a 6502 computer on a breadboard, and about Shopify new custom storefront tool [Hydrogen](https://shopify.dev/beta/hydrogen)
+- 🔭 At [Shopify](https://shopify.engineering), I work on products and pricing; I've had a hand in subscriptions, checkout, product recommendations, and search
+- 🌱 I recently [rebuilt a blog](https://www.chartewalk.com) to freshen up on the latest Rails 7 offerings; last year I built a 6502 computer on a breadboard
 - 💬 Ask me about the differences working in a startup vs a larger fast growing company like Shopify
 <!--
 - 👯 I’m looking to collaborate on ...
